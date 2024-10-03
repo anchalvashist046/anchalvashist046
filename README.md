@@ -1,16 +1,18 @@
-## Hi there 👋
+###Hi there! 👋 I'm Anchal.
+🎓 Student at Tezpur University | 💻 Java Developer (Spring Boot & React) | 🌐 Networking Learner
 
-<!--
-**anchalvashist046/anchalvashist046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m passionate about:
 
-Here are some ideas to get you started:
+Java Development: Crafting backends with Spring Boot and building UIs with React.
+Networking: Exploring LAN/WAN, switching, and routing (BGP, OSPF) to understand infrastructure better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on:
+
+Backend systems with Java 17 and Spring Boot
+Expanding my networking knowledge
+Merging both fields for secure, efficient applications
+
+
+[![Anchal's GitHub stats](https://github-readme-stats.vercel.app/api?username=anchalvashist046&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+
