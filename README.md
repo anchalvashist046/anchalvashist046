@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Anchal.<br>
 🎓 Student at Tezpur University | 💻 Java Developer (Spring Boot & React) | 🌐 Networking Enthusiast<br><br>
 
-🔭 currently developing backend systems with Java 17.<br><br>🤝 looking to collaborate Open-source projects in Java and networking.<br><br>🛠️ looking for help with Advanced networking concepts.<br><br>🌱 currently learning new technologies in Java and networking.<br><br>⚡I see Java and networking as two halves of a whole.<br><br>📫 Reach me at: vashistanchal046@gmail.com
+🔭 currently developing backend systems with Java 17.<br>🤝 looking to collaborate Open-source projects in Java and networking.<br>🛠️ looking for help with Advanced networking concepts.<br>🌱 currently learning new technologies in Java and networking.<br>⚡I see Java and networking as two halves of a whole.<br>📫 Reach me at: vashistanchal046@gmail.com
 
 
 # 💻 Tech Stack:
