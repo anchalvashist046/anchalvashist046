@@ -1,4 +1,5 @@
-###Hi there! 👋 I'm Anchal.
+ # Hi there! 👋 I'm Anchal.
+ 
 🎓 Student at Tezpur University | 💻 Java Developer (Spring Boot & React) | 🌐 Networking Learner
 
 🚀 I’m passionate about:
